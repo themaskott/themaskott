@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on BGP
-- ⚡ Sometimes I'm playing CTFs
-
-=> :checkered_flag:
+- 🏁 Sometimes I'm playing CTFs
+- 💡 Ideas are welcome
+=> 📧 contacts in my bio
 
 <!--
 **themaskott/themaskott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
