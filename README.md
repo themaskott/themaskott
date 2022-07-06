@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on BGP
 - ⚡ Sometimes I'm playing CTFs
 
+=> :checkered_flag:
+
 <!--
 **themaskott/themaskott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
