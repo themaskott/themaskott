@@ -1,7 +1,7 @@
 ### Welcome, enjoy the journey 👋
 
 
-- 🔭 I’m currently working on BGP
+- 🔭 I’m currently working
 - 🏁 Sometimes I'm playing CTFs
 - 💡 Ideas are welcome
 
